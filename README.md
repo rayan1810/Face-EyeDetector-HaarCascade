@@ -1,6 +1,12 @@
 # Face&Eye-Detector using Haar Cascade
-
-  1)First install Python using the setup.exe<br>
+  Programming Language : Python<br>
+  Library used : OpenCV<br>
+  
+  OpenCV (Open source computer vision) is a library of programming functions mainly aimed at real-time computer vision.Originally           developed by Intel, it was later supported by Willow Garage then Itseez (which was later acquired by Intel). The library is cross-         platform and free for use under the open-source BSD license.<br>
+  
+  To run the Program First Install Python 3.7.2<br>
+  Steps to install Python3.7.2:-<br>
+  1)First install Python using python-3.7.2.exe<br>
   2)Add python to environment varibles and then follow the instructions.
 
   To install opencv Follow these Steps:-<br>
