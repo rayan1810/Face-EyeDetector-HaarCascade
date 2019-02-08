@@ -15,7 +15,7 @@
     3)check after installation that opencv is installed or not by typing --> <br>
       C:\\>python<br>
       python>>import cv2<br>
-      python>>cv2.__version__<br>
+      python>>cv2.\_\_version\_\_<br>
       python>>"4.0.0"<br>
   
   To run the program Follow the following Steps:-
